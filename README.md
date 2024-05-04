@@ -18,12 +18,7 @@ should probably proofread and complete it, then remove this comment. -->
 
 # LoRA text2image fine-tuning - itsankitdas/sd-dress-model-lora-sdxl
 
-These are LoRA adaption weights for stabilityai/stable-diffusion-xl-base-1.0. The weights were fine-tuned on the Abhi5ingh/Dresscodepromptsketch dataset. You can find some example images in the following. 
-
-![img_0](./image_0.png)
-![img_1](./image_1.png)
-![img_2](./image_2.png)
-![img_3](./image_3.png)
+These are LoRA adaption weights for stabilityai/stable-diffusion-xl-base-1.0. The weights were fine-tuned on the Abhi5ingh/Dresscodepromptsketch dataset. You can find some example images. 
 
 
 LoRA for the text encoder was enabled: False.
